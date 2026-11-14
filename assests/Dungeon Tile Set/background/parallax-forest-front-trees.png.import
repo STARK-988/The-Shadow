@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vr7ptn3a8e6c"
-path="res://.godot/imported/hollow-dolphin_hollow-echo_middle-bg.png-17bae8ddd485b729a3fa16869351560f.ctex"
+uid="uid://dl7vnedfskeji"
+path="res://.godot/imported/parallax-forest-front-trees.png-4ed02bbc2ca5326a1fe5266718c078e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assests/Dungeon Tile Set/background/hollow-dolphin_hollow-echo_middle-bg.png"
-dest_files=["res://.godot/imported/hollow-dolphin_hollow-echo_middle-bg.png-17bae8ddd485b729a3fa16869351560f.ctex"]
+source_file="res://assests/Dungeon Tile Set/background/parallax-forest-front-trees.png"
+dest_files=["res://.godot/imported/parallax-forest-front-trees.png-4ed02bbc2ca5326a1fe5266718c078e5.ctex"]
 
 [params]
 
